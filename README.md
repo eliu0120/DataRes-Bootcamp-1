@@ -1,3 +1,5 @@
+- Note from author: this was done as part of a DataRes workshop on plotly and panda I attended
+
 # Data Science Bootcamp: Introduction to Pandas + Plotly
 This is the DataRes Fall 2021 Workshop Introducing Pandas and Plotly.
 
